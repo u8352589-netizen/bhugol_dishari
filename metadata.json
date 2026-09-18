@@ -1,0 +1,6 @@
+{
+  "name": "ভূগোল দিশারী (Bhugol Dishari)",
+  "description": "Android Study Application & Web Admin Management Panel for ভূগোল দিশারী by Narayan Sir with live real-time synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
